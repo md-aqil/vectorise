@@ -1,0 +1,575 @@
+
+/*Pixcel 2XL*/ 
+@media ( min-width: 400px) and (max-width: 520px) {
+  .swiper-full-mobile .swiper-slide {
+    height: 200px;
+    padding: 10px;
+  }
+
+
+}
+
+
+/*Glaxy s5*/
+
+@media ( min-width: 320px) and (max-width: 390px) {
+  .swiper-full-mobile .swiper-slide {
+    height: 215px;
+    padding: 0;
+  }
+
+
+}
+
+
+/*Common devices*/
+
+@media ( min-width: 320px) and (max-width: 480px) {
+
+
+
+
+.business-hero .navbar-light .navbar-nav .nav-link {
+  color: #333 !important;
+  padding: 10px 10px;
+}
+
+.screens img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+  .blue-box {
+    width: 80%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    font-size: 22px;
+    padding: 38px;
+  }
+  .middle-image {
+    height: 60vh;
+  }
+  .high-space {
+    padding: 50px 0;
+  }
+  .job-article {
+    margin-top: -100px;
+    padding: 30px;
+  }
+ .hw-container.spacethis {
+  padding-top: 0;
+ }
+  .m-order-1 {
+    order: 1;
+    padding: 0;
+  }
+
+  .hero-textc {
+    top: 20px;
+    padding-left: inherit;
+    padding-right: inherit;
+    overflow: hidden;
+    margin: -15px;
+    padding-top: 15px;
+  }
+
+  .hero-textc .display-4 {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 40px;
+
+  }
+
+.hero-textc .lead {
+  text-align: center;
+  font-size: 16px;
+}
+
+.hero-btn-box .btn-hero.ml-4 {
+  margin-left: 0 !important;
+  margin-top: 15px;
+}
+
+.hero-btn-box {
+  text-align: center;
+      margin-top: 25px !important;
+}
+
+.main-hero {
+  height: 100%;
+  overflow-x: initial;
+  padding-bottom: 100px;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+
+#accordion .btn-link {
+    
+    font-size: 17px;
+    
+    word-spacing: inherit;
+    margin-left: 10px;
+   text-align: left;
+    white-space: normal;
+}
+
+.lang {
+  right: 60px;
+  top: 24px;
+}
+
+.navbar-collapse {
+    background: #fff;
+    padding: 10px 10px;
+    position: absolute;
+    width: 90%;
+    margin: auto;
+    z-index: 10;
+    top: 85px;
+}
+
+
+.screens {
+   top: 10px;
+    
+    width: 193px;
+    height: auto;
+    margin: auto;
+    left: 0;
+    right: 0;
+    
+}
+
+  .front-moible-mockup {
+    width: 220px;
+    left: 0;
+    top: 0;
+}
+
+.heart-bg {
+   /*padding-top: 10px;*/
+    text-align: center !important;
+}
+
+.heart-bg:before, .heart-bg:after {
+    
+    width: 490px;
+    height: 400px;
+  
+    right: -110px;
+
+    background-size: 90%;
+
+}
+
+.hero-heading-big {
+    font-weight: 800;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.navbar-brand >img {
+    width: 64px;
+}
+
+.content-read {
+    padding: 0 20px;
+   
+}
+
+.heading {
+  font-size: 26px !important; 
+}
+
+.phone-wrapper {
+  width: 170px;
+  margin: auto;
+}
+
+.navbar-toggler:not(:disabled):not(.disabled) {
+  outline: none;
+}
+
+
+.phone-wrapper .swiper-slide img {
+  height: inherit;
+}
+
+.bold-title {
+  letter-spacing: 0px;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+.gallery-thumbs {
+  margin-top: 15px;
+}
+
+.gallery-thumbs .show-s img {
+    width: 34px;
+    margin-top: 5px;
+}
+
+.gallery-thumbs .swiper-slide {
+  padding: 5px 5px;
+    border-radius: 13px;
+    height: 119px !important;
+
+}
+
+.show-s {
+   
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.row.gallery-slider-row .col-5{
+  padding-left: 0;
+
+}
+
+.clrd-bg {
+  padding: 0 15px;
+}
+
+.swiper-full-mobile:before {
+   
+    width: 113px;
+    height: 100%;
+    top: 31px;
+   
+}
+
+.swiper-full-mobile {
+  padding-bottom: 15px;
+}
+
+.get-box {
+    margin-top: 50px;
+}
+.get-app-number {
+    
+    margin-top: 40px;
+    width: 100%;
+}
+
+.bg-image-mobiles:before {
+   
+    width: 100%;
+   
+    background-position: 0px -67px;
+}
+
+.questions-container {
+    padding: 0 25px;
+}
+
+#footer .row {
+  text-align: center;
+}
+
+#footer .row .col-md-5 {
+  text-align: center;
+    border-bottom: 1px solid #d679b9;
+ 
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.with2 .credit-box {
+    top: 150px;
+}
+
+.count.completed {
+      background-position: 27px;
+
+}
+
+
+
+#how-it-works {
+  padding-bottom: 0;
+}
+
+#footer .navbar-light.nav-footer-meta .nav-link {
+  padding-right: 8px;
+}
+#footer {
+    padding: 20px 5px;
+}
+
+.mp0{
+  padding: 0 !important;
+}
+
+.nav-footer-meta .navleft {
+  flex-direction: row;
+ }
+
+.social-media-footer {
+  margin-left: 0;
+  margin-right: 0 !important;
+}
+
+#footer .nav-footer {
+  margin-top: 30px;
+  padding: 20px 0;
+}
+
+.phone-wrapper:before {
+  width: 185px;
+}
+.gallery-slider-row .col-5 {
+padding-left: 0;
+    padding-right: 5px;
+    max-width: 100%;
+}
+
+.business-hero .keep-content-center {
+    height: calc(100% - 0px);
+    
+}
+
+ .btn-secin .btn.btn-styled{
+  
+      padding: 15px 32px;
+     
+      font-size: 15px;
+      letter-spacing: 0;
+ }
+
+ .business-hero .heading {
+    font-size: 40px !important;
+    line-height: 1;
+}
+
+ .business-hero .navbar-light .navbar-toggler {
+    color: #000;
+    opacity: 1;
+    filter: invert(1);
+
+}
+
+.nav-user {
+  right: -65px;
+}
+
+.business-hero {
+   
+    height: 100%;
+    padding-bottom: 100px;
+}
+
+.change-mobile-logo img {
+  display: none;
+}
+
+.change-mobile-logo {
+    background: url(../img/mobile-logo.png) no-repeat;
+    width: 100px;
+    height: 45px;
+    background-size: 85%;
+    background-position: 11px 8px;
+}
+
+.hw-container {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.hw-box {
+  margin-bottom: 20px;
+  border-radius: 30px;
+  width: 100%;
+}
+
+
+.convinced-box {
+    padding: 20px;
+    height: inherit;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+
+.social-media-footer {
+  flex-direction: row;
+}
+
+.fnlinks {
+  flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.fnlinks .nav-link {
+  padding-left: 0 !important;
+}
+
+.gallery-slider-row {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+
+.team-hero {
+    height: 400px;
+    background-size: cover;
+}
+.bb-text {
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+}
+.text-row-cont .col-md-6 {
+  padding: 0
+}
+
+.text-row-cont {
+   padding: 20px;
+}
+
+.left-text-prgp {
+    padding-left: 15px;
+    font-size: 20px;
+   
+    margin-top: 0px;
+}
+
+.teamstory-img {
+    height: 400px;
+}
+
+.team-card .col-md-6:nth-child(even) {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding: 20px;
+}
+.team-card .col-md-6:nth-child(odd) {
+    padding-top: 0px;
+    
+    padding-left: 0px;
+    padding: 20px;
+}
+
+.collapse.show {
+    display: block;
+    box-shadow: 0px 4px 9px #00000024;
+}
+.job-article:before {
+   
+    width: 390px;
+    height: 500px;
+    position: absolute;
+    z-index: -1;
+    background-size: 100%;
+    background-position: right bottom;
+    /* right: -250px; */
+    top: -270px;
+    left: 40px;
+    left: 0;
+}
+
+
+}
+
+
+@media ( min-width: 411px) and (max-width: 411px) {
+  .gallery-slider-row .col-md-4.col-7{
+    flex-basis: 50%;
+  }
+
+  .gallery-slider-row .col-5 {
+
+    max-width: 100%;
+    
+    flex: 0 0 47.666667%;
+}
+
+.gallery-thumbs .swiper-slide {
+    padding: 10px 20px;
+    }
+
+}
+
+
+@media (max-width: 360px) {
+  
+    .swiper-full-mobile:before {
+      width: 120px;
+    }
+  
+}
+
+
+/*iphone5/SE*/
+
+@media  ( min-width: 320px) and (max-width: 320px) {
+ 
+.swiper-full-mobile:before {
+    width: 106px;
+}
+  
+  .phone-wrapper:before {
+    width: 160px;
+}
+
+.swiper-full-mobile .swiper-slide {
+  height: 164px;
+}
+
+.swiper-full-mobile {
+    padding-bottom: 30px;
+}
+
+.gallery-top .swiper-slide {
+
+  width: 162px !important;
+      height: 350px;
+      object-fit: contain;
+
+}
+
+.phone-wrapper {
+    width: 150px;
+    height: 320px;
+    margin-bottom: 40px;
+}
+.with2 .credit-box {
+    top: 100px;
+}
+
+.with2>img {
+  object-fit: contain !important;
+    margin-left: 3px;
+
+}
+}
+
+
+
+@media  ( min-width: 375px) and (max-width: 380px) {
+
+.swiper-full-mobile .swiper-slide {
+  height: 193px;
+}
+
+
+
+}
+
+
